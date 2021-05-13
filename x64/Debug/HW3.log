@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HW3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Airport.c
+  AirportManager.c
+  Company.c
+c:\users\idan1\downloads\hw3_solution\hw4_idan_hur_318247822\company.c(173): warning C4013: 'loadCompanyFromFileBit' undefined; assuming extern returning int
+c:\users\idan1\downloads\hw3_solution\hw4_idan_hur_318247822\company.c(210): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Date.c
+  fileHelper.c
+c:\users\idan1\downloads\hw3_solution\hw4_idan_hur_318247822\filehelper.c(12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flight.c
+  General.c
+  GeneralList.c
+  main.c
+  Generating Code...
+  HW3.vcxproj -> C:\Users\idan1\Downloads\HW3_Solution\HW4_Idan_Hur_318247822\x64\Debug\HW4_Idan_Hur_318247822.exe
